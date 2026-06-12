@@ -16,8 +16,8 @@
 
 ```typescript
 const me = {
-  alias     : "YourUsername",
-  location  : "Merseyside, England 🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+  alias     : "TheSiwakornCode",
+  location  : "Chiang Mai, Thailand 🇹🇭",
   passion   : ["Clean Code", "Smart Trades", "Sharp Fits", "LFC"],
   currently : "Building things that matter & watching every match 🔴",
   mantra    : "You'll Never Walk Alone ⚽",

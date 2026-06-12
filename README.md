@@ -100,15 +100,15 @@ Classic  ──────────────────●──── S
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&border_color=C8102E&icon_color=C8102E&title_color=C8102E&text_color=E8E8E8&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=TheSiwakornCode&show_icons=true&theme=github_dark&border_color=C8102E&icon_color=C8102E&title_color=C8102E&text_color=E8E8E8&hide_border=false" />
 &nbsp;
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&border_color=C8102E&title_color=C8102E&text_color=E8E8E8" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSiwakornCode&layout=compact&theme=github_dark&border_color=C8102E&title_color=C8102E&text_color=E8E8E8" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark-blue&border=C8102E&ring=C8102E&fire=F5C518&currStreakLabel=C8102E" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSiwakornCode&theme=github-dark-blue&border=C8102E&ring=C8102E&fire=F5C518&currStreakLabel=C8102E" />
 
 </div>
 
@@ -118,9 +118,7 @@ Classic  ──────────────────●──── S
 
 <div align="center">
 
-[![Twitter/X](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/YOUR_HANDLE)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/siwakorn._k?igsh=cmZ3cHFkMmdxNXhl&utm_source=qr)
 
 </div>
 
@@ -132,6 +130,6 @@ Classic  ──────────────────●──── S
 
 **`// Clean code. Smart money. Sharp fits. YNWA. 🔴`**
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=C8102E&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=TheSiwakornCode&color=C8102E&style=flat-square)
 
 </div>

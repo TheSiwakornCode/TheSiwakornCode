@@ -2,7 +2,7 @@
 
 <!-- HEADER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=C8102E&height=200&section=header&text=SIWAKORN%20K.%20%7C%20Code.%20Trade.%20Style.&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%E2%80%A2%20Trader%20%E2%80%A2%20Fashion%20Head%20%E2%80%A2%20Red%20Till%20I%20Die&descAlignY=60&descSize=16&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=393939&height=200&section=header&text=SIWAKORN%20K.%20%7C%20Code.%20Trade.%20Style.&fontSize=36&fontColor=FFFFFF&fontAlignY=38&desc=Developer%20%E2%80%A2%20Trader%20%E2%80%A2%20Fashion%20Head%20%E2%80%A2%20Red%20Till%20I%20Die&descAlignY=60&descSize=16&animation=fadeIn" />
 
 </div>
 
